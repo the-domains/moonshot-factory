@@ -1,0 +1,28 @@
+name: Moonshot Factory
+favicon: null
+layout_spectrum: 0.5170549843460321
+typography_spectrum: 0.20105147012509406
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9272526006679982
+  lightness: 0.6239170073531568
+  saturation: 0.08703979360871017
+  rhythmicContrast: 0.5852263269480318
+purpose: []
